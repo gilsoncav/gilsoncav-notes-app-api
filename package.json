@@ -1,6 +1,6 @@
 {
   "name": "gilsoncav-notes-app-api",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Node.js starter for the Serverless Framework with async/await and unit test support",
   "scripts": {
     "test": "serverless-bundle test"
@@ -21,8 +21,5 @@
   "dependencies": {
     "stripe": "^8.14.0",
     "uuid": "^3.4.0"
-  },
-  "scripts": {
-    "test": "serverless-bundle test"
   }
 }
